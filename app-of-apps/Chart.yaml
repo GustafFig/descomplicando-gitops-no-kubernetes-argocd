@@ -1,0 +1,4 @@
+apiVersion: v2
+name: app-off-apps
+description: A Helm chart for app-of-apps
+version: 0.1.0
