@@ -1,7 +1,8 @@
 argocd:
   giropopsSenhas:
     enabled: false
-    randomLogger: false
+  randomLogger:
+    enabled: false
   prometheus:
     enabled: false
     ingress: "https://prometheus-mycompany.com"
