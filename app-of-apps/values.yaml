@@ -1,6 +1,7 @@
 argocd:
   giropopsSenhas:
     enabled: true
+    replicas: 3
   randomLogger:
     enabled: true
   prometheus:
